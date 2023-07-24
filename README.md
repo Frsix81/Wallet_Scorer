@@ -1,2 +1,3 @@
 # ZRO_config
-Deploy for fee
+Deploy for fee ,
+"erc20" ,
