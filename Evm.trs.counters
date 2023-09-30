@@ -1,0 +1,6 @@
+#cal.use-noms,10k,...
+#cal : combine "counters" ;
+#verifier : "w3.score","pasp" ;
+#result : sum " n^?/27 ";
+             <?=source.chain>
+  #conclude : "ans" eligibility;
