@@ -3,4 +3,12 @@
 #verifier : "w3.score","pasp" ;
 #result : sum " n^?/27 ";
              <?=source.chain>
-  #conclude : "ans" eligibility;
+EVM-Transactions_config
+Deploy for fee @ bridge(1st),
+api rpc,(infura,alchemy,slingshot)
+"mainet",side-evms"
+<erc20,beb20,erc721>
+seperate by rollups,
+<call count.num;
+
+#conclude : "ans" eligibility;
